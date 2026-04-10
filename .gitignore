@@ -1,0 +1,5 @@
+node_modules/
+portfolio-site/node_modules/
+portfolio-site/dist/
+.DS_Store
+*.log
